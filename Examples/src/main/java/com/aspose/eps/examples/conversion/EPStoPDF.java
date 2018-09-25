@@ -1,5 +1,3 @@
-package com.aspose.eps.examples.conversion;
-
 import com.aspose.eps.Ps2PdfConverter;
 import com.aspose.eps.Ps2PdfConverterException;
 import com.aspose.eps.Ps2PdfConverterOptions;
