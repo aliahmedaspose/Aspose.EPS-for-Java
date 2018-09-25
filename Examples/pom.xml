@@ -23,7 +23,6 @@
       <groupId>com.aspose</groupId>
       <artifactId>aspose-eps</artifactId>
       <version>18.9</version>
-      <type>jar</type>
     </dependency>
   </dependencies>    
 </project>
