@@ -19,7 +19,7 @@ Directory | Description
 
 + **Website:** [www.aspose.com](http://www.aspose.com)
 + **Product Home:** [Aspose.EPS for Java](https://products.aspose.com/eps/java)
-+ **Download:** [Download Aspose.EPS for Java](https://artifact.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-eps)
++ **Download:** [Download Aspose.EPS for Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-eps)
 + **Documentation:** [Aspose.EPS for Java Documentation](https://docs.aspose.com/display/epsjava/Home)
 + **Free Support:** [Aspose.EPS for Java Free Support Forum](https://forum.aspose.com/c/eps)
 + **Paid Support:** [Aspose.EPS for Java Paid Support Forum](https://helpdesk.aspose.com/)
